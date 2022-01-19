@@ -48,3 +48,11 @@ html {
       transition: all 500ms;
       transition-timing-function: cubic-bezier(0, 1.71, 0.71, 0.74);
     }
+
+    .min-hand {
+      background: red;
+    }
+
+    .hour-hand {
+      background: green;
+    }
